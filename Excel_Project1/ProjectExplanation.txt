@@ -1,0 +1,16 @@
+Business Analyst Excel Project
+
+
+This Excel project aims to demonstrate the usage of microsoft Excel into the field of business analytics for an hypothetical bike company.
+
+
+This project uses raw data of an hypothetical bike company and contains all the steps to a business analysis procedure.
+
+
+The raw dataset is subjected to the process of data cleaning. 
+
+
+Pivot tables and pivotcharts are created.
+
+
+The final step is the creation of an interactive dashboard.
